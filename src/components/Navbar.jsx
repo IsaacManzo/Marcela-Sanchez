@@ -30,9 +30,10 @@ const AdultsDropdown = () => {
         <button
           data-collapse-toggle="navbar-default"
           type="button"
-          className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 hover:dark:text-yellow-400 dark:hover:bg-teal-600 hover:dark:focus:ring-yellow-400 dark:focus:ring-white dark:text-white"
+          className="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden  focus:outline-none focus:ring-2 focus:ring-gray-200 hover:dark:text-yellow-400 dark:hover:bg-teal-600 hover:dark:focus:ring-yellow-400 dark:focus:ring-white dark:text-white"
           aria-controls="navbar-default"
           aria-expanded="false"
+          onClick={toggleDown}
         >
           <span className="sr-only">Open main menu</span>
           <svg
@@ -72,7 +73,7 @@ const AdultsDropdown = () => {
             >
               <li>
                 <a
-                  href="#"
+                  href="presentacion"
                   className="block py-2 pl-3 pr-4 text-white rounded  md:border-0 md:p-0  hover:text-yellow-300 hover:bg-teal-600  md:dark:hover:bg-transparent transition-all"
                 >
                   Presentación
@@ -89,7 +90,7 @@ const AdultsDropdown = () => {
             >
               <li>
                 <a
-                  href="estudios"
+                href="estudios"
                   className="block py-2 pl-3 pr-4 text-white rounded  md:border-0 md:p-0  hover:text-yellow-300 hover:bg-teal-600  md:dark:hover:bg-transparent transition-all"
                 >
                   Estudios
@@ -106,7 +107,7 @@ const AdultsDropdown = () => {
             >
               <li>
                 <a
-                  href="#"
+                href="contacto"
                   className="block py-2 pl-3 pr-4 text-white rounded  md:border-0 md:p-0  hover:text-yellow-300 hover:bg-teal-600  md:dark:hover:bg-transparent transition-all"
                 >
                   Contacto
