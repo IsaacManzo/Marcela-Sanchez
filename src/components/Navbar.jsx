@@ -17,7 +17,6 @@ const AdultsDropdown = () => {
 
   return (
     <nav id="inicio" className="border-gray-200 bg-teal-600">
-      <Slide top>
       <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
         <a href="/" className="flex items-center">
           <img
@@ -118,8 +117,6 @@ const AdultsDropdown = () => {
           </ul>
         </div>
       </div>
-      </Slide>
-      
     </nav>
   );
 };

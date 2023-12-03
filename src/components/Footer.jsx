@@ -14,8 +14,8 @@ const Footer = () => {
             </div>
             <div className="text-white/70">
               <p className="mb-4">
-                Trabajo de lunes a viernes <br /> y mis horarios son de 19:00pm a
-                22:00pm
+                Trabajo de lunes a viernes <br /> y mis horarios son de 19:00pm
+                a 22:00pm
               </p>
             </div>
           </div>
@@ -25,9 +25,7 @@ const Footer = () => {
                 Email
               </h2>
               <ul className="text-yellow-300 font-normal">
-                <li>           
-                    marce20053@hotmail.com
-                </li>
+                <li>marce20053@hotmail.com</li>
               </ul>
             </div>
             <div className="mb-4">
@@ -40,7 +38,7 @@ const Footer = () => {
                     href="https://github.com/themesberg/flowbite"
                     className="hover:underline "
                   >
-                     +54 9 2262 57-2538
+                    +54 9 2262 57-2538
                   </a>
                 </li>
               </ul>
@@ -51,9 +49,7 @@ const Footer = () => {
               </h2>
               <ul className="text-yellow-300 font-normal">
                 <li>
-                  <a className="hover:underline">
-                    Necochea / calle 71 1165
-                  </a>
+                  <a className="hover:underline">Necochea / calle 71 1165</a>
                 </li>
               </ul>
             </div>

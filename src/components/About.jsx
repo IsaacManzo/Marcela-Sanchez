@@ -10,7 +10,11 @@ const About = () => {
         <div class="text-center bg-teal-600 text-white p-5 rounded-lg shadow-lg max-w-[400px] mx-auto my-5">
           <h2 class="text-2xl font-bold mb-3">Filipenses 4:6-7</h2>
           <blockquote class="italic text-lg">
-            "No se preocupen por nada; en cambio, oren por todo. Díganle a Dios lo que necesitan y denle gracias por todo lo que él ha hecho. Así experimentarán la paz de Dios, que supera todo lo que podemos entender. La paz de Dios cuidará su corazón y su mente mientras vivan en Cristo Jesús."
+            "No se preocupen por nada; en cambio, oren por todo. Díganle a Dios
+            lo que necesitan y denle gracias por todo lo que él ha hecho. Así
+            experimentarán la paz de Dios, que supera todo lo que podemos
+            entender. La paz de Dios cuidará su corazón y su mente mientras
+            vivan en Cristo Jesús."
           </blockquote>
         </div>
       </div>

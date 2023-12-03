@@ -2,7 +2,10 @@ import React from "react";
 
 const Estudios = () => {
   return (
-    <div id="estudios" className="flex justify-start items-center pt-[200px] bg-teal-500 pl-10">
+    <div
+      id="estudios"
+      className="flex justify-start items-center pt-[200px] bg-teal-500 pl-10"
+    >
       <ol class="items-center sm:flex">
         <li class="relative mb-6 sm:mb-0 mt-7">
           <div class="flex items-center">
@@ -55,8 +58,8 @@ const Estudios = () => {
               Realizado en Diciembre 23, 2021
             </time>
             <p class="text-base font-semibold text-yellow-300/80">
-            -Consejeria matrimonial -Abordaje en drogodependencia -Quitando  límites mentales
-
+              -Consejeria matrimonial -Abordaje en drogodependencia -Quitando
+              límites mentales
             </p>
           </div>
         </li>
@@ -84,7 +87,8 @@ const Estudios = () => {
               Realizado en Diciembre 5, 2023
             </time>
             <p class="text-base font-semibold text-yellow-300/80">
-            -Consejería para padres -Autoconfianza -Oratoria y manejo de público -Elaboración del duelo
+              -Consejería para padres -Autoconfianza -Oratoria y manejo de
+              público -Elaboración del duelo
             </p>
           </div>
         </li>

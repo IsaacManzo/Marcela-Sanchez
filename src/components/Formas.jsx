@@ -16,7 +16,9 @@ const Formas = () => {
         dinámicas emocionales, promoviendo así el desarrollo personal y la
         armonía interpersonal.
       </p>
-      <p className="text-center mt-[70px] font-bold text-[30px] mb-3 text-yellow-300">Tipos de sesiones</p>
+      <p className="text-center mt-[70px] font-bold text-[30px] mb-3 text-yellow-300">
+        Tipos de sesiones
+      </p>
       <div className="flex flex-col 2xl:flex-row xl:flex-row lg:flex-row md:flex-row sm:flex-row justify-center items-center">
         <Card className="max-w-sm m-[20px] bg-teal-500 border-none hover:bg-teal-400">
           <h5 className="text-2xl font-bold tracking-tight text-white">
