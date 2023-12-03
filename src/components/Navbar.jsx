@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import Slide from "react-reveal/Fade";
 
 // importamos componente de navegacion
 import { Link } from "react-scroll";
